@@ -14,7 +14,7 @@
  
  <br>
  
-  => Segue meu linkedIn abaixo!
+  => Para contato seguem linkedIn e e-mail abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/fabiana-amorim-9a4b0a17b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
