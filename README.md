@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao perfil de Fabiana Amorim 😁
+Estudante de tecnologia.
 
  <div>
    <a href="https://github.com/fabiana2015">
