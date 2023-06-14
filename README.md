@@ -1,5 +1,6 @@
-## Bem-vindo(a) ao perfil de Fabiana Amorim 😁
-Estudante de tecnologia.
+## Bem-vindo(a) ao perfil de Fabiana Amorim  💻 ☕ ✔️ 
+Desde muito jovem, sempre fui fascinado por tecnologia e como ela pode ser usada para resolver problemas do mundo real. Foi esse interesse que me levou a hoje estudar para migrar de carreira e estudar Análise e Desenvolvimento de Sistemas e estou muito satisfeita com a escolha que fiz. 
+
 
  <div>
    <a href="https://github.com/fabiana2015">
